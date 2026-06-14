@@ -78,6 +78,11 @@ const gptents: CampsiteConfig = {
     intro: "Alles, was ein sorgloses Rennwochenende braucht — saubere Anlagen, gutes Essen und kurze Wege, direkt am Camp.",
     features: [
       {
+        title: "Park direkt am Zelt",
+        text: "Auto oder Motorrad stehen direkt neben deinem Stellplatz — Anreise ohne Stau, und zur Strecke geht es bequem zu Fuß.",
+        image: { src: `${IMG}/accommodation-ce89c259c5.webp`, alt: "Wohnmobil am GPtents-Eingangsbogen mit Bergkulisse" },
+      },
+      {
         title: "Sanitär rund um die Uhr",
         text: "Saubere Toiletten und Waschräume, die ein 24-Stunden-Reinigungsteam den ganzen Tag in Schuss hält — kein Vergleich zum üblichen Festival-Klo.",
         image: { src: `${IMG}/accommodation-83a35daec5.webp`, alt: "Gepflegte Sanitäranlage im GPtents-Camp mit Hinweis Clean and Tidy" },
@@ -96,11 +101,6 @@ const gptents: CampsiteConfig = {
         title: "Bar & Gemeinschaftsbereich",
         text: "Kühles Getränk, neue Leute, gemeinsame Vorfreude aufs Rennen — die Bar und der Loungebereich sind der Treffpunkt am Camp.",
         image: { src: `${IMG}/accommodation-7368b07912.webp`, alt: "Gäste an der Bar im GPtents-Camp mit Getränken" },
-      },
-      {
-        title: "Park direkt am Zelt",
-        text: "Auto oder Motorrad stehen direkt neben deinem Stellplatz — Anreise ohne Stau, und zur Strecke geht es bequem zu Fuß.",
-        image: { src: `${IMG}/accommodation-ce89c259c5.webp`, alt: "Wohnmobil am GPtents-Eingangsbogen mit Bergkulisse" },
       },
       {
         title: "Ruhezone für erholsame Nächte",
