@@ -32,12 +32,12 @@ const gptents: CampsiteConfig = {
   pillars: [
     {
       title: "Minuten zur Rennstrecke",
-      text: "GPtents liegt auf Camping BLACK, einem der größten und nächstgelegenen Plätze am Red Bull Ring — rund 15 Minuten zu Fuß, 3 mit dem Auto.",
+      text: "GPtents liegt auf Camping BLACK, direkt am Red Bull Ring — rund 15 Minuten zu Fuß oder 3 Minuten mit dem Auto.",
       image: { src: `${IMG}/accommodation-1dc02676b6.webp`, alt: "Luftaufnahme des GPtents-Camps in der steirischen Bergkulisse bei Spielberg" },
     },
     {
       title: "Vorgefertigte Hotelzelte",
-      text: "Ankommen und entspannen: Dein Zweiraum-Zelt steht mit echten Betten, Hotelbettwäsche und Handtüchern bereit, Frühstücksbuffet inklusive.",
+      text: "Dein Zweiraum-Zelt steht mit echten Betten, Hotelbettwäsche und Handtüchern bereit — Frühstücksbuffet inklusive.",
       image: { src: `${IMG}/accommodation-f2662e667c.webp`, alt: "Gäste entspannen in Liegestühlen vor den GPtents-Hotelzelten im Abendlicht" },
     },
     {
@@ -84,7 +84,7 @@ const gptents: CampsiteConfig = {
       },
       {
         title: "Sanitär rund um die Uhr",
-        text: "Saubere Toiletten und Waschräume, die ein 24-Stunden-Reinigungsteam den ganzen Tag in Schuss hält — kein Vergleich zum üblichen Festival-Klo.",
+        text: "Saubere Toiletten und Waschräume, rund um die Uhr von einem Reinigungsteam betreut — kein Vergleich zum Festival-Klo.",
         image: { src: `${IMG}/accommodation-83a35daec5.webp`, alt: "Gepflegte Sanitäranlage im GPtents-Camp mit Hinweis Clean and Tidy" },
       },
       {
@@ -94,7 +94,7 @@ const gptents: CampsiteConfig = {
       },
       {
         title: "Grill & Street-Food am Abend",
-        text: "Jeden Abend brutzelt der Grill: vom Küchenchef zubereitete Street-Food-Gerichte und Burger direkt am Camp, solange das Rennwochenende läuft.",
+        text: "Jeden Abend brutzelt der Grill mit Street-Food und Burgern direkt am Camp — das ganze Rennwochenende lang.",
         image: { src: `${IMG}/accommodation-782bfff515.webp`, alt: "Offener Grill mit Burgern am Abend im GPtents-Camp" },
       },
       {
@@ -117,7 +117,7 @@ const gptents: CampsiteConfig = {
       {
         name: "Luxus-Hotelzelt",
         kind: "Hotelzelt für 2",
-        text: "Modernes, abschließbares Zweiraum-Zelt mit zwei echten Betten, Schaumstoffmatratzen, Bettwäsche und Handtüchern — Frühstücksbuffet jeden Morgen inklusive.",
+        text: "Abschließbares Zweiraum-Zelt mit zwei echten Betten, Bettwäsche und Handtüchern — Frühstücksbuffet inklusive.",
         image: { src: `${IMG}/accommodation-46f9c524ca.webp`, alt: "Innenraum eines GPtents-Hotelzelts mit zwei Betten und Blick ins Camp" },
         priceFrom: 1190,
         features: ["2 echte Betten", "Hotelbettwäsche & Handtücher", "Frühstücksbuffet inklusive", "Beleuchtung & Strom optional"],
@@ -125,7 +125,7 @@ const gptents: CampsiteConfig = {
       {
         name: "Premium-Stellplatz",
         kind: "Camping",
-        text: "Dein eigener Platz für Zelt, Wohnwagen oder Camper in drei Größen (21–50 m²) — Auto direkt daneben, Strom auf Wunsch. Der Preis gilt fürs ganze Rennwochenende.",
+        text: "Dein Stellplatz für Zelt, Wohnwagen oder Camper (21–50 m²) — Auto direkt daneben, Strom optional, fürs ganze Rennwochenende.",
         image: { src: `${IMG}/accommodation-4a6ae34f61.webp`, alt: "Wohnmobil mit Vorzelt auf einem GPtents-Stellplatz, Gäste entspannen mit Bergblick" },
         priceFrom: 300,
         features: ["21–50 m² Stellfläche", "Auto/Motorrad am Platz", "Strom optional", "bis zu 5 Nächte"],
