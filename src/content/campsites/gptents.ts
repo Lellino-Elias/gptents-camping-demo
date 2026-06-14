@@ -105,7 +105,7 @@ const gptents: CampsiteConfig = {
       {
         title: "Ruhezone für erholsame Nächte",
         text: "Ein eigener, partyfreier Bereich ohne große Gruppen sorgt dafür, dass du nachts zur Ruhe kommst und ausgeschlafen am Ring stehst.",
-        image: { src: `${IMG}/accommodation-0be2f8a618.webp`, alt: "Innenraum eines GPtents-Hotelzelts mit zwei Betten bei Nacht" },
+        image: { src: `${IMG}/accommodation-cfe646bf0d.webp`, alt: "GPtents-Gäste erholen sich in Liegestühlen auf der Wiese vor den Hotelzelten" },
       },
     ],
   },
@@ -126,7 +126,7 @@ const gptents: CampsiteConfig = {
         name: "Premium-Stellplatz",
         kind: "Camping",
         text: "Dein eigener Platz für Zelt, Wohnwagen oder Camper in drei Größen (21–50 m²) — Auto direkt daneben, Strom auf Wunsch. Der Preis gilt fürs ganze Rennwochenende.",
-        image: { src: `${IMG}/accommodation-d268827fbe.webp`, alt: "Stellplätze mit Zelten und Autos im GPtents-Camp vor Bergpanorama" },
+        image: { src: `${IMG}/accommodation-4a6ae34f61.webp`, alt: "Wohnmobil mit Vorzelt auf einem GPtents-Stellplatz, Gäste entspannen mit Bergblick" },
         priceFrom: 300,
         features: ["21–50 m² Stellfläche", "Auto/Motorrad am Platz", "Strom optional", "bis zu 5 Nächte"],
       },
