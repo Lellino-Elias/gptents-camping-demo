@@ -80,7 +80,7 @@ const gptents: CampsiteConfig = {
       {
         title: "Park direkt am Zelt",
         text: "Auto oder Motorrad stehen direkt neben deinem Stellplatz — Anreise ohne Stau, und zur Strecke geht es bequem zu Fuß.",
-        image: { src: `${IMG}/accommodation-ce89c259c5.webp`, alt: "Wohnmobil am GPtents-Eingangsbogen mit Bergkulisse" },
+        image: { src: `${IMG}/accommodation-bd85f1767d.webp`, alt: "Reihe von Wohnmobilen auf dem GPtents-Stellplatz mit steirischen Bergen im Hintergrund" },
       },
       {
         title: "Sanitär rund um die Uhr",
@@ -90,7 +90,7 @@ const gptents: CampsiteConfig = {
       {
         title: "Warmwasser-Duschen",
         text: "Eigene Duschkabinen mit garantiert warmem Wasser und Spiegel — morgens frisch zum Rennen, abends entspannt zurück ans Zelt.",
-        image: { src: `${IMG}/accommodation-3ce7a16273.webp`, alt: "Saubere Duschkabine mit Warmwasser im GPtents-Camp" },
+        image: { src: `${IMG}/accommodation-4bcd9f90d0.webp`, alt: "GPtents-Duschkabine mit Warmwasser, Spiegel und Handbrause" },
       },
       {
         title: "Grill & Street-Food am Abend",
@@ -105,7 +105,7 @@ const gptents: CampsiteConfig = {
       {
         title: "Ruhezone für erholsame Nächte",
         text: "Ein eigener, partyfreier Bereich ohne große Gruppen sorgt dafür, dass du nachts zur Ruhe kommst und ausgeschlafen am Ring stehst.",
-        image: { src: `${IMG}/accommodation-cfe646bf0d.webp`, alt: "GPtents-Gäste erholen sich in Liegestühlen auf der Wiese vor den Hotelzelten" },
+        image: { src: `${IMG}/accommodation-e392a4f541.webp`, alt: "GPtents-Gäste entspannen in Campingstühlen vor den Hotelzelten in ruhiger Atmosphäre" },
       },
     ],
   },
@@ -118,7 +118,7 @@ const gptents: CampsiteConfig = {
         name: "Luxus-Hotelzelt",
         kind: "Hotelzelt für 2",
         text: "Abschließbares Zweiraum-Zelt mit zwei echten Betten, Bettwäsche und Handtüchern — Frühstücksbuffet inklusive.",
-        image: { src: `${IMG}/accommodation-46f9c524ca.webp`, alt: "Innenraum eines GPtents-Hotelzelts mit zwei Betten und Blick ins Camp" },
+        image: { src: `${IMG}/accommodation-0be2f8a618.webp`, alt: "Innenraum eines GPtents-Hotelzelts mit zwei Einzelbetten und weißen Kissen" },
         priceFrom: 1190,
         features: ["2 echte Betten", "Hotelbettwäsche & Handtücher", "Frühstücksbuffet inklusive", "Beleuchtung & Strom optional"],
       },
