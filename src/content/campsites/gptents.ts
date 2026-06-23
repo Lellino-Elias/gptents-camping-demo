@@ -85,7 +85,7 @@ const gptents: CampsiteConfig = {
       {
         title: "Sanitär rund um die Uhr",
         text: "Saubere Toiletten und Waschräume, rund um die Uhr von einem Reinigungsteam betreut — kein Vergleich zum Festival-Klo.",
-        image: { src: `${IMG}/accommodation-83a35daec5.webp`, alt: "Gepflegte Sanitäranlage im GPtents-Camp mit Hinweis Clean and Tidy" },
+        image: { src: `${IMG}/accommodation-3ce7a16273.webp`, alt: "Blick in eine der gepflegten Waschkabinen im GPtents-Camp bei Spielberg" },
       },
       {
         title: "Warmwasser-Duschen",
